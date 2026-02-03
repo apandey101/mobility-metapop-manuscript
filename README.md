@@ -105,10 +105,3 @@ Key parameters at the top of each section:
 - Simini, F., González, M. C., Maritan, A., & Barabási, A. L. (2012). A universal model for mobility and migration patterns. *Nature*, 484(7392), 96-100.
 - Brockmann, D., & Helbing, D. (2013). The hidden geometry of complex, network-driven contagion phenomena. *Science*, 342(6164), 1337-1342.
 
-## License
-
-[Add your license here]
-
-## Contact
-
-[Add contact information here]
